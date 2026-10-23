@@ -2,6 +2,8 @@
 
 A bilingual (English + Marathi), responsive digital exhibition for Indian Knowledge Systems (IKS) student projects. Built with plain HTML, CSS and JavaScript for GitHub Pages.
 
+https://virajpathak27.github.io/iks-digital-heritage-hub/
+
 ## Features
 
 - Responsive heritage/museum-inspired design
