@@ -1,0 +1,111 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#173b31">
+  <meta name="description" content="IKS Digital Heritage Hub — explore student projects about Indian Knowledge Systems through dedicated webpages and QR codes.">
+  <title>IKS Digital Heritage Hub</title>
+  <link rel="stylesheet" href="./assets/styles.css">
+  <script defer src="https://cdnjs.cloudflare.com/ajax/libs/qrcodejs/1.0.0/qrcode.min.js"></script>
+  <script defer src="./assets/app.js"></script>
+</head>
+<body>
+  <a class="skip-link" href="#main">Skip to content</a>
+  <header class="site-header">
+    <a class="brand" href="#" aria-label="IKS Digital Heritage Hub home">
+      <span class="brand-mark" aria-hidden="true">✺</span>
+      <span><strong>IKS Digital Heritage Hub</strong><small data-i18n="tagline">A living archive of Indian knowledge</small></span>
+    </a>
+    <nav class="header-actions" aria-label="Main navigation">
+      <a href="#explore" data-i18n="navExplore">Explore projects</a>
+      <a href="#qr-studio" data-i18n="navQR">QR Studio</a>
+      <button id="language-toggle" class="language-toggle" type="button" aria-label="Switch language">मराठी</button>
+    </nav>
+  </header>
+
+  <main id="main">
+    <section class="hero">
+      <div class="hero-copy">
+        <p class="eyebrow" data-i18n="eyebrow">INDIAN KNOWLEDGE SYSTEMS · STUDENT EXHIBITION</p>
+        <h1 data-i18n="heroTitle">Ancient wisdom.<br><em>New ways to explore.</em></h1>
+        <p class="hero-description" data-i18n="heroDescription">A digital exhibition of student research, projects and stories across India’s knowledge traditions — each project ready to discover through its own QR code.</p>
+        <div class="hero-actions">
+          <a class="button button-light" href="#explore" data-i18n="browseProjects">Browse projects <span aria-hidden="true">↗</span></a>
+          <a class="text-link light-link" href="#qr-studio" data-i18n="makeQR">Create project QR →</a>
+        </div>
+        <div class="hero-meta"><span class="live-dot"></span><span data-i18n="githubHosted">Open access · GitHub Pages ready</span></div>
+      </div>
+      <div class="hero-art" aria-hidden="true">
+        <div class="sun-disc"></div>
+        <div class="arch arch-back"></div><div class="arch arch-front"></div>
+        <div class="arch-window"></div>
+        <div class="hero-art-caption"><span>ज्ञान</span><span>VIDYĀ · HERITAGE · DISCOVERY</span></div>
+      </div>
+    </section>
+
+    <section class="stats-strip" aria-label="Collection overview">
+      <div><strong id="project-count">—</strong><span data-i18n="statProjects">Featured projects</span></div>
+      <div><strong>01</strong><span data-i18n="statArchive">Shared digital archive</span></div>
+      <div><strong>∞</strong><span data-i18n="statAccess">Scan. Learn. Explore.</span></div>
+    </section>
+
+    <section class="intro-row">
+      <div><p class="eyebrow" data-i18n="curated">CURATED KNOWLEDGE</p><h2 data-i18n="collectionTitle">Explore the collection</h2></div>
+      <p data-i18n="collectionText">From ancient cities and mathematics to living arts and ecological knowledge, explore student work through a single, searchable hub.</p>
+    </section>
+
+    <section id="explore" class="explore-section">
+      <div class="toolbar">
+        <label class="search-box"><span aria-hidden="true">⌕</span><input id="search-input" type="search" placeholder="Search projects, topics or places…" data-i18n-placeholder="searchPlaceholder"><kbd>/</kbd></label>
+        <label class="filter-label"><span data-i18n="categoryLabel">Category</span>
+          <select id="category-filter"><option value="all" data-i18n="allCategories">All categories</option></select>
+        </label>
+      </div>
+      <div id="project-grid" class="project-grid" aria-live="polite"></div>
+      <div id="empty-state" class="empty-state" hidden><span>⌕</span><h3 data-i18n="noResults">No projects found</h3><p data-i18n="trySearch">Try another search or category.</p></div>
+    </section>
+
+    <section class="qr-feature" id="qr-studio">
+      <div class="qr-feature-copy">
+        <p class="eyebrow" data-i18n="qrEyebrow">SCAN TO DISCOVER</p>
+        <h2 data-i18n="qrTitle">Every project gets<br><em>its own doorway.</em></h2>
+        <p data-i18n="qrDescription">Choose any project below to open its detail page and generate a QR code. Print the label for a poster, model, exhibition desk or classroom display.</p>
+        <ul class="check-list">
+          <li data-i18n="qrBullet1">Direct link to a dedicated project page</li>
+          <li data-i18n="qrBullet2">Downloadable QR image and printable label</li>
+          <li data-i18n="qrBullet3">Updates stay connected to the same project URL</li>
+        </ul>
+      </div>
+      <div class="qr-preview-card">
+        <div class="qr-placeholder" aria-hidden="true"><span>▦</span><small>PROJECT QR</small></div>
+        <div><strong data-i18n="qrCardTitle">A small code. A whole story.</strong><p data-i18n="qrCardText">Scan with your phone camera to open the project online.</p></div>
+      </div>
+    </section>
+
+    <section class="how-section">
+      <p class="eyebrow" data-i18n="simpleProcess">A SIMPLE PROCESS</p><h2 data-i18n="howTitle">From student work to shared heritage</h2>
+      <div class="steps">
+        <article><span class="step-number">01</span><span class="step-icon">✎</span><h3 data-i18n="step1Title">Document</h3><p data-i18n="step1Text">Add a project entry to the repository’s JSON file with title, summary and sources.</p></article>
+        <article><span class="step-number">02</span><span class="step-icon">⌘</span><h3 data-i18n="step2Title">Publish</h3><p data-i18n="step2Text">GitHub Pages publishes the site. Each project has a stable, shareable link.</p></article>
+        <article><span class="step-number">03</span><span class="step-icon">▦</span><h3 data-i18n="step3Title">Share</h3><p data-i18n="step3Text">Download a QR label and place it beside your project for visitors to scan.</p></article>
+      </div>
+    </section>
+
+    <section class="note-band"><span class="note-icon">✧</span><p data-i18n="noteText"><strong>Built for thoughtful research.</strong> Every project should credit its sources, distinguish evidence from interpretation, and respect community knowledge and image permissions.</p></section>
+  </main>
+
+  <footer class="site-footer">
+    <a class="footer-brand" href="#"><span class="brand-mark">✺</span><strong>IKS Digital Heritage Hub</strong></a>
+    <p data-i18n="footerText">A student-led window into India’s diverse knowledge traditions.</p>
+    <div><a href="#explore" data-i18n="navExplore">Explore projects</a><a href="#qr-studio" data-i18n="navQR">QR Studio</a><a href="https://pages.github.com/" target="_blank" rel="noopener noreferrer">GitHub Pages ↗</a></div>
+  </footer>
+
+  <template id="project-card-template">
+    <article class="project-card">
+      <a class="card-art" href="#"><span class="card-symbol"></span><span class="card-index"></span><span class="card-arrow">↗</span></a>
+      <div class="card-content"><div class="card-meta"><span class="category-pill"></span><span class="card-period"></span></div><h3><a href="#"></a></h3><p class="card-summary"></p><div class="card-footer"><span class="card-region"></span><a class="card-open" href="#" data-i18n="viewProject">View project →</a></div></div>
+    </article>
+  </template>
+</body>
+</html>

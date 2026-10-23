@@ -1,0 +1,242 @@
+[
+  {
+    "id": "mohenjo-daro",
+    "title": {
+      "en": "Mohenjo-daro: The Ancient Urban Marvel",
+      "mr": "मोहेंजोदारो: प्राचीन नगरवैभव"
+    },
+    "category": "Archaeology",
+    "categoryMr": "पुरातत्त्व",
+    "period": {
+      "en": "Mature Harappan period · c. 2600–1900 BCE",
+      "mr": "प्रौढ हडप्पा कालखंड · साधारण इ.स.पू. 2600–1900"
+    },
+    "region": {
+      "en": "Sindh, present-day Pakistan",
+      "mr": "सिंध, सध्याचा पाकिस्तान"
+    },
+    "summary": {
+      "en": "Explore the city’s urban planning, baked-brick buildings, wells, drainage and the famous Great Bath.",
+      "mr": "शहराची नगररचना, भाजलेल्या विटांच्या वास्तू, विहिरी, सांडपाणी व्यवस्था आणि प्रसिद्ध महास्नानगृह यांचा अभ्यास."
+    },
+    "description": {
+      "en": "Mohenjo-daro was one of the major urban centres of the Harappan Civilization. Its archaeological remains reveal carefully built brick structures, streets, wells and drainage features. The exact political system, language and purpose of some buildings remain uncertain.",
+      "mr": "मोहेंजोदारो हे हडप्पा संस्कृतीतील महत्त्वाचे नागरी केंद्र होते. येथील पुरातत्त्वीय अवशेषांमधून विटांची बांधकामे, रस्ते, विहिरी आणि सांडपाणी व्यवस्थेची माहिती मिळते. येथील राजकीय व्यवस्था, भाषा आणि काही वास्तूंचा नेमका उपयोग आजही निश्चितपणे ज्ञात नाही."
+    },
+    "format": "Research report",
+    "student": "Student project",
+    "mediaUrl": "https://whc.unesco.org/en/list/138/",
+    "mediaLabel": {
+      "en": "UNESCO World Heritage listing",
+      "mr": "UNESCO जागतिक वारसा नोंद"
+    },
+    "references": [
+      {
+        "label": "UNESCO — Archaeological Ruins at Moenjodaro",
+        "url": "https://whc.unesco.org/en/list/138/"
+      }
+    ],
+    "icon": "🏛️",
+    "theme": "terracotta"
+  },
+  {
+    "id": "dholavira-water",
+    "title": {
+      "en": "Dholavira and Ancient Water Management",
+      "mr": "धोलावीरा आणि प्राचीन जलव्यवस्थापन"
+    },
+    "category": "Engineering",
+    "categoryMr": "अभियांत्रिकी",
+    "period": {
+      "en": "Harappan Civilization",
+      "mr": "हडप्पा संस्कृती"
+    },
+    "region": {
+      "en": "Kutch, Gujarat, India",
+      "mr": "कच्छ, गुजरात, भारत"
+    },
+    "summary": {
+      "en": "Study reservoirs, water conservation and urban planning at the Harappan site of Dholavira.",
+      "mr": "धोलावीरा येथील जलसाठे, पाणी संवर्धन आणि नगरनियोजनाचा अभ्यास."
+    },
+    "description": {
+      "en": "Dholavira is known for its distinctive settlement layout and water-management features. Archaeological remains help researchers study how communities responded to a dry environment. Interpretations should be tied to excavation and heritage sources.",
+      "mr": "धोलावीरा हे वेगळ्या नगररचनेसाठी आणि जलव्यवस्थापनाच्या पुराव्यांसाठी प्रसिद्ध आहे. पुरातत्त्वीय अवशेषांमधून कोरड्या पर्यावरणात समुदायांनी पाण्याचे व्यवस्थापन कसे केले याचा अभ्यास करता येतो."
+    },
+    "format": "Case study",
+    "student": "Student project",
+    "mediaUrl": "https://whc.unesco.org/en/list/1645/",
+    "mediaLabel": {
+      "en": "UNESCO — Dholavira",
+      "mr": "UNESCO — धोलावीरा"
+    },
+    "references": [
+      {
+        "label": "UNESCO — Dholavira: A Harappan City",
+        "url": "https://whc.unesco.org/en/list/1645/"
+      }
+    ],
+    "icon": "💧",
+    "theme": "teal"
+  },
+  {
+    "id": "aryabhata-mathematics",
+    "title": {
+      "en": "Aryabhata and the Indian Mathematical Tradition",
+      "mr": "आर्यभट आणि भारतीय गणितपरंपरा"
+    },
+    "category": "Mathematics & Astronomy",
+    "categoryMr": "गणित आणि खगोलशास्त्र",
+    "period": {
+      "en": "Classical period · 5th–6th century CE",
+      "mr": "अभिजात कालखंड · इ.स. ५वे–६वे शतक"
+    },
+    "region": {
+      "en": "Ancient India",
+      "mr": "प्राचीन भारत"
+    },
+    "summary": {
+      "en": "An introduction to Aryabhata’s mathematical and astronomical work, with attention to historical context.",
+      "mr": "आर्यभटांच्या गणितीय व खगोलशास्त्रीय कार्याचा ऐतिहासिक संदर्भासह परिचय."
+    },
+    "description": {
+      "en": "Aryabhata’s work is an important source for the history of mathematics and astronomy in South Asia. This project should distinguish what the text says from later interpretations and avoid attributing every later mathematical development to one individual.",
+      "mr": "आर्यभटांचे कार्य दक्षिण आशियातील गणित आणि खगोलशास्त्राच्या इतिहासासाठी महत्त्वाचे आहे. मूळ ग्रंथातील विधानं आणि नंतरच्या व्याख्या यांत फरक ठेवणे आवश्यक आहे."
+    },
+    "format": "Presentation",
+    "student": "Student project",
+    "mediaUrl": "https://www.britannica.com/biography/Aryabhata-I",
+    "mediaLabel": {
+      "en": "Biographical overview",
+      "mr": "चरित्रात्मक आढावा"
+    },
+    "references": [
+      {
+        "label": "Encyclopaedia Britannica — Aryabhata",
+        "url": "https://www.britannica.com/biography/Aryabhata-I"
+      }
+    ],
+    "icon": "📐",
+    "theme": "indigo"
+  },
+  {
+    "id": "yoga-traditions",
+    "title": {
+      "en": "Yoga: Text, Practice and Living Traditions",
+      "mr": "योग: ग्रंथ, साधना आणि जिवंत परंपरा"
+    },
+    "category": "Philosophy & Wellness",
+    "categoryMr": "तत्त्वज्ञान आणि आरोग्यपरंपरा",
+    "period": {
+      "en": "Multiple historical periods",
+      "mr": "विविध ऐतिहासिक कालखंड"
+    },
+    "region": {
+      "en": "South Asia",
+      "mr": "दक्षिण आशिया"
+    },
+    "summary": {
+      "en": "Explore yoga’s diverse historical sources, philosophical ideas and evolving practices.",
+      "mr": "योगाचे ऐतिहासिक स्रोत, तत्त्वज्ञान आणि काळानुसार बदललेल्या साधनांचा अभ्यास."
+    },
+    "description": {
+      "en": "Yoga includes diverse philosophical and practical traditions developed over many centuries. A responsible project should identify the specific text or tradition being discussed and avoid treating all forms of yoga as identical.",
+      "mr": "योगामध्ये अनेक शतकांत विकसित झालेल्या विविध तात्त्विक आणि व्यावहारिक परंपरांचा समावेश होतो. अभ्यासात विशिष्ट ग्रंथ किंवा परंपरा स्पष्ट करावी आणि सर्व योगपद्धती एकसारख्या मानू नयेत."
+    },
+    "format": "Research poster",
+    "student": "Student project",
+    "mediaUrl": "https://ich.unesco.org/en/RL/yoga-01163",
+    "mediaLabel": {
+      "en": "UNESCO Intangible Cultural Heritage",
+      "mr": "UNESCO अमूर्त सांस्कृतिक वारसा"
+    },
+    "references": [
+      {
+        "label": "UNESCO — Yoga",
+        "url": "https://ich.unesco.org/en/RL/yoga-01163"
+      }
+    ],
+    "icon": "🧘",
+    "theme": "green"
+  },
+  {
+    "id": "traditional-water-harvesting",
+    "title": {
+      "en": "Traditional Indian Water Harvesting",
+      "mr": "भारतीय पारंपरिक जलसंधारण"
+    },
+    "category": "Environment & Agriculture",
+    "categoryMr": "पर्यावरण आणि शेती",
+    "period": {
+      "en": "Regional practices across historical periods",
+      "mr": "विविध ऐतिहासिक कालखंडांतील प्रादेशिक पद्धती"
+    },
+    "region": {
+      "en": "Multiple regions of India",
+      "mr": "भारताचे विविध प्रदेश"
+    },
+    "summary": {
+      "en": "Document regional systems such as stepwells, tanks, johads and community-managed water structures.",
+      "mr": "विहिरी, बावड्या, तलाव आणि सामुदायिक जलरचनांसारख्या प्रादेशिक पद्धतींचे दस्तऐवजीकरण."
+    },
+    "description": {
+      "en": "Water-harvesting systems vary by geography, rainfall and community practice. Compare examples by region and period, and use reliable sources before making claims about age, capacity or current performance.",
+      "mr": "जलसंधारण पद्धती भूगोल, पर्जन्यमान आणि स्थानिक समुदायांनुसार बदलतात. प्रदेश व कालखंडानुसार उदाहरणांची तुलना करा आणि ऐतिहासिक दावे विश्वसनीय स्रोतांनी तपासा."
+    },
+    "format": "Field study",
+    "student": "Student project",
+    "mediaUrl": "https://www.indiawaterportal.org/",
+    "mediaLabel": {
+      "en": "India Water Portal",
+      "mr": "इंडिया वॉटर पोर्टल"
+    },
+    "references": [
+      {
+        "label": "India Water Portal",
+        "url": "https://www.indiawaterportal.org/"
+      }
+    ],
+    "icon": "🌿",
+    "theme": "ochre"
+  },
+  {
+    "id": "indian-classical-music",
+    "title": {
+      "en": "Indian Classical Music: Concepts and Traditions",
+      "mr": "भारतीय शास्त्रीय संगीत: संकल्पना आणि परंपरा"
+    },
+    "category": "Arts & Culture",
+    "categoryMr": "कला आणि संस्कृती",
+    "period": {
+      "en": "Evolving traditions",
+      "mr": "विकसित होत आलेल्या परंपरा"
+    },
+    "region": {
+      "en": "Multiple regions of India",
+      "mr": "भारताचे विविध प्रदेश"
+    },
+    "summary": {
+      "en": "Explore raga, tala, instruments and the diversity of Hindustani and Carnatic traditions.",
+      "mr": "राग, ताल, वाद्ये आणि हिंदुस्तानी व कर्नाटक संगीतपरंपरांची विविधता जाणून घ्या."
+    },
+    "description": {
+      "en": "Indian classical music includes several sophisticated and evolving traditions. This project introduces key concepts while recognising regional variation and historical change.",
+      "mr": "भारतीय शास्त्रीय संगीतात अनेक विकसित आणि समृद्ध परंपरांचा समावेश होतो. या प्रकल्पात प्रमुख संकल्पनांची ओळख करून देताना प्रादेशिक विविधता आणि ऐतिहासिक बदल लक्षात घेतले आहेत."
+    },
+    "format": "Audio-visual presentation",
+    "student": "Student project",
+    "mediaUrl": "https://ich.unesco.org/",
+    "mediaLabel": {
+      "en": "UNESCO Intangible Cultural Heritage",
+      "mr": "UNESCO अमूर्त सांस्कृतिक वारसा"
+    },
+    "references": [
+      {
+        "label": "UNESCO Intangible Cultural Heritage",
+        "url": "https://ich.unesco.org/"
+      }
+    ],
+    "icon": "🎶",
+    "theme": "plum"
+  }
+]
